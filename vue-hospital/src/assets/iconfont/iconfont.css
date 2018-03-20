@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 564830 */
+  src: url('//at.alicdn.com/t/font_564830_u5m3h8h25wxw29.eot');
+  src: url('//at.alicdn.com/t/font_564830_u5m3h8h25wxw29.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_564830_u5m3h8h25wxw29.woff') format('woff'),
+  url('//at.alicdn.com/t/font_564830_u5m3h8h25wxw29.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_564830_u5m3h8h25wxw29.svg#iconfont') format('svg');
+}
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^='el-icon-hospital'],
+[class*=' el-icon-hospital'] {
+  font-family: 'iconfont' !important;
+  /* 以下内容参照第三方图标库本身的规则 */
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-hospital-article:before { content: "\e616"; }
+
+.el-icon-hospital-district:before { content: "\e687"; }
+
+.el-icon-hospital-phone:before { content: "\e671"; }
+
+.el-icon-hospital-quit:before { content: "\e659"; }
+
+.el-icon-hospital-kuaijie:before { content: "\e6f7"; }
+
+.el-icon-hospital-type:before { content: "\e639"; }
+
+.el-icon-hospital-address:before { content: "\e609"; }
+
+.el-icon-hospital-zhongyi:before { content: "\e63a"; }
+
+.el-icon-hospital-waike:before { content: "\e662"; }
+
+.el-icon-hospital-neike:before { content: "\e663"; }
+
+.el-icon-hospital-guke:before { content: "\e665"; }
+
+.el-icon-hospital-kouqiangke:before { content: "\e666"; }
+
+.el-icon-hospital-erbike:before { content: "\e683"; }
+
+.el-icon-hospital-else:before { content: "\e645"; }
+
+.el-icon-hospital-yanke:before { content: "\e62a"; }
+
+.el-icon-hospital-shengzhijiankang:before { content: "\e621"; }
+
+.el-icon-hospital-erke:before { content: "\e60e"; }
+
+.el-icon-hospital-hospital:before { content: "\e614"; }
+
+.el-icon-hospital-return:before { content: "\e615"; }
+
+.el-icon-hospital-rank:before { content: "\e622"; }
+
+.el-icon-hospital-user:before { content: "\e60a"; }
+
+.el-icon-hospital-admin:before { content: "\e612"; }
+
+.el-icon-hospital-expert:before { content: "\e60d"; }
+
+.el-icon-hospital-fuchanke:before { content: "\e610"; }
+
+.el-icon-hospital-notice:before { content: "\e685"; }
+
+.el-icon-hospital-department:before { content: "\e65b"; }
+
+.el-icon-hospital-tumour:before { content: "\e618"; }

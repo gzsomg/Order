@@ -1,0 +1,411 @@
+{
+  "departments": [
+    {
+      "id": 1,
+      "name": "内科",
+      "icon": "el-icon-hospital-neike",
+      "childdepartments": [
+        {
+          "name": "心血管"
+        },
+        {
+          "name": "神经"
+        },
+        {
+          "name": "消化"
+        },
+        {
+          "name": "内分泌"
+        },
+        {
+          "name": "免疫"
+        },
+        {
+          "name": "呼吸"
+        },
+        {
+          "name": "肾病"
+        },
+        {
+          "name": "血液"
+        },
+        {
+          "name": "感染"
+        },
+        {
+          "name": "过敏反应"
+        },
+        {
+          "name": "老年病"
+        },
+        {
+          "name": "普通"
+        },
+        {
+          "name": "高压氧"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "外科",
+      "icon": "el-icon-hospital-waike",
+      "childdepartments": [
+        {
+          "name": "神经"
+        },
+        {
+          "name": "功能神经"
+        },
+        {
+          "name": "心血管"
+        },
+        {
+          "name": "胸外"
+        },
+        {
+          "name": "整形"
+        },
+        {
+          "name": "乳腺"
+        },
+        {
+          "name": "肝胆"
+        },
+        {
+          "name": "肛肠"
+        },
+        {
+          "name": "血管"
+        },
+        {
+          "name": "器官移植"
+        },
+        {
+          "name": "微创"
+        },
+        {
+          "name": "普外"
+        },
+        {
+          "name": "脑外"
+        },
+        {
+          "name": "烧伤"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "妇产科",
+      "icon": "el-icon-hospital-fuchanke",
+      "childdepartments": [
+        {
+          "name": "妇内分泌"
+        },
+        {
+          "name": "妇"
+        },
+        {
+          "name": "产"
+        },
+        {
+          "name": "妇泌尿"
+        },
+        {
+          "name": "遗传咨询"
+        },
+        {
+          "name": "计划生育"
+        },
+        {
+          "name": "妇产"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "生殖中心",
+      "icon": "el-icon-hospital-shengzhijiankang",
+      "childdepartments": [
+        {
+          "name": "生殖中心"
+        },
+        {
+          "name": "生殖"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "儿科",
+      "icon": "el-icon-hospital-erke",
+      "childdepartments": [
+        {
+          "name": "新生儿"
+        },
+        {
+          "name": "小儿呼吸"
+        },
+        {
+          "name": "儿"
+        },
+        {
+          "name": "小儿营养保健"
+        },
+        {
+          "name": "小儿心内"
+        },
+        {
+          "name": "小儿皮肤"
+        },
+        {
+          "name": "小儿精神"
+        },
+        {
+          "name": "小儿外"
+        },
+        {
+          "name": "小儿心外"
+        },
+        {
+          "name": "小儿骨"
+        },
+        {
+          "name": "小儿神经外"
+        },
+        {
+          "name": "小儿康复"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "骨科",
+      "icon": "el-icon-hospital-guke",
+      "childdepartments": [
+        {
+          "name": "脊柱外"
+        },
+        {
+          "name": "创伤骨"
+        },
+        {
+          "name": "手外"
+        },
+        {
+          "name": "创伤骨"
+        },
+        {
+          "name": "矫形骨"
+        },
+        {
+          "name": "骨质疏松"
+        },
+        {
+          "name": "骨伤专"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "眼科",
+      "icon": "el-icon-hospital-yanke",
+      "childdepartments": [
+        {
+          "name": "小儿眼"
+        },
+        {
+          "name": "眼底"
+        },
+        {
+          "name": "角膜"
+        },
+        {
+          "name": "青光眼"
+        },
+        {
+          "name": "白内障"
+        },
+        {
+          "name": "眼外伤"
+        },
+        {
+          "name": "眼眶及肿瘤"
+        },
+        {
+          "name": "屈光"
+        },
+        {
+          "name": "中医眼"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "口腔科",
+      "icon": "el-icon-hospital-kouqiangke",
+      "childdepartments": [
+        {
+          "name": "颌面外"
+        },
+        {
+          "name": "正畸"
+        },
+        {
+          "name": "牙体牙髓"
+        },
+        {
+          "name": "牙周"
+        },
+        {
+          "name": "口腔粘膜"
+        },
+        {
+          "name": "儿童口腔"
+        },
+        {
+          "name": "口腔修复"
+        },
+        {
+          "name": "种植"
+        },
+        {
+          "name": "口腔预防"
+        },
+        {
+          "name": "口腔特诊"
+        },
+        {
+          "name": "口腔急诊"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "肿瘤科",
+      "icon": "el-icon-hospital-tumour",
+      "childdepartments": [
+        {
+          "name": "肿瘤内"
+        },
+        {
+          "name": "肿瘤外"
+        },
+        {
+          "name": "肿瘤妇"
+        },
+        {
+          "name": "放疗"
+        },
+        {
+          "name": "肿瘤康复"
+        },
+        {
+          "name": "肿瘤综合"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "中医科",
+      "icon": "el-icon-hospital-zhongyi",
+      "childdepartments": [
+        {
+          "name": "中医妇产"
+        },
+        {
+          "name": "中医儿"
+        },
+        {
+          "name": "中医骨"
+        },
+        {
+          "name": "中医皮肤"
+        },
+        {
+          "name": "中医内分泌"
+        },
+        {
+          "name": "中医消化"
+        },
+        {
+          "name": "中医呼吸"
+        },
+        {
+          "name": "中医肾病内"
+        },
+        {
+          "name": "中医免疫内"
+        },
+        {
+          "name": "中医心内"
+        },
+        {
+          "name": "中医神经内"
+        },
+        {
+          "name": "中医肿瘤"
+        },
+        {
+          "name": "中医血液"
+        },
+        {
+          "name": "中医肝病"
+        },
+        {
+          "name": "中医五官"
+        },
+        {
+          "name": "中医男"
+        },
+        {
+          "name": "针灸"
+        },
+        {
+          "name": "中医按摩"
+        },
+        {
+          "name": "中医外"
+        },
+        {
+          "name": "中医乳腺外"
+        },
+        {
+          "name": "中医肛肠"
+        },
+        {
+          "name": "中医老年病"
+        },
+        {
+          "name": "中医"
+        },
+        {
+          "name": "中医内"
+        },
+        {
+          "name": "中医脾胃"
+        },
+        {
+          "name": "膏方门诊"
+        },
+        {
+          "name": "中医骨伤"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "耳鼻咽喉头颈科",
+      "icon": "el-icon-hospital-erbike",
+      "childdepartments": [
+        {
+          "name": "耳鼻喉"
+        },
+        {
+          "name": "头颈外"
+        }
+      ]
+    }
+  ]
+}
